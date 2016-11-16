@@ -83,6 +83,7 @@ a:visited:hover {
   width: 200px;
   border: 2px solid black;
   position: relative;
+  top: 170px;
   left: 325px;
 }
 
@@ -92,7 +93,7 @@ a:visited:hover {
   width: 200px;
   border: 2px solid black;
   position: relative;
-  top: 148px;
+  top: 120px;
   left: 625px;
   padding-left: 25px;
 }
@@ -103,7 +104,7 @@ a:visited:hover {
   width: 200px;
   border: 2px solid black;
   position: relative;
-  top: 98px;
+  top: 70px;
   left: 925px;
 }
 
