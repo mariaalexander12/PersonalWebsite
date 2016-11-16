@@ -54,6 +54,7 @@ a:hover {
 
 a:visited {
   color: #fff; 
+  text-decoration: none;
 }
 
 a:visited:hover {
