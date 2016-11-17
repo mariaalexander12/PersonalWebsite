@@ -112,16 +112,10 @@ a:visited:hover {
 .block{
   width: 50%;
   position: relative;
-  left: 355px;
   top: 150px;
+  margin:auto;
 }
 
-@media only screen and (max-width: 1000px){
-    .block {
-        left: 100px;
-        top: 50px;
-    }
-}
 
 th {
     border: 1px solid #dddddd;
