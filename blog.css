@@ -77,7 +77,7 @@ a:visited:hover {
 }
 
 
-.block{
+/*.block{
   background-color: #8c8c8c;
   height: 50px;
   width: 200px;
@@ -107,10 +107,31 @@ a:visited:hover {
   top: 70px;
   left: 925px;
 }
+*/
+
+.block{
+  width: 50%;
+  position: relative;
+  left: 355px;
+  top: 150px;
+}
+
+@media only screen and (max-width: 1000px){
+    .block {
+        left: 100px;
+        top: 50px;
+    }
+}
+
+th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
 
 h4{
   font-family: 'Cantarell', sans-serif;
-  padding-left: 50px;
+  /*padding-left: 40px;*/
 }
 
 span{
